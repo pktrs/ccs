@@ -3,7 +3,7 @@
 	<br /><br /><br />
 		<div class="row">
 			<div class="col-sm-2 col-sm-offset-3">
-				<div class="bg-primary aligncenter" style="border-radius:100%;max-width:104px;"><img class="img-responsive aligncenter" src="/wordpress/wp-content/themes/ccs/images/ccs-logo-100x104.png" /></div>
+				<div class="bg-primary aligncenter" style="border-radius:100%;max-width:104px;"><img class="img-responsive aligncenter" src="<?php echo get_template_directory_uri(); ?>/images/ccs-logo-100x104.png" /></div>
 			</div>
 			<div class="col-sm-4">
 				<h1 class="gray-darker" style="font-size:x-large;">Call Control Service</h1>
