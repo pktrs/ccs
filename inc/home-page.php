@@ -17,8 +17,8 @@
 		<br />
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-4"><img class="img-circle img-responsive aligncenter" style="border:solid 2px #337ab7;max-width:180px;width:100%;" src="/wordpress/wp-content/themes/ccs/images/hp-thumb-1.jpg" /></div>
-				<div class="col-sm-4"><img class="img-circle img-responsive aligncenter" style="border:solid 2px #337ab7;max-width:180px;width:100%;" src="/wordpress/wp-content/themes/ccs/images/hp-thumb-2.jpg" /></div>
-				<div class="col-sm-4"><img class="img-circle img-responsive aligncenter" style="border:solid 2px #337ab7;max-width:180px;width:100%;" src="/wordpress/wp-content/themes/ccs/images/hp-thumb-3.jpg" /></div>
+				<div class="col-sm-4"><img class="img-circle img-responsive aligncenter" style="border:solid 2px #337ab7;max-width:180px;width:100%;" src="<?php echo get_template_directory_uri(); ?>/images/hp-thumb-1.jpg" /></div>
+				<div class="col-sm-4"><img class="img-circle img-responsive aligncenter" style="border:solid 2px #337ab7;max-width:180px;width:100%;" src="<?php echo get_template_directory_uri(); ?>/images/hp-thumb-2.jpg" /></div>
+				<div class="col-sm-4"><img class="img-circle img-responsive aligncenter" style="border:solid 2px #337ab7;max-width:180px;width:100%;" src="<?php echo get_template_directory_uri(); ?>/images/hp-thumb-3.jpg" /></div>
 			</div>
 </div>
