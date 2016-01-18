@@ -9,12 +9,12 @@ THIS IS A BREAK - ONLY EDIT ABOVE OR BELOW
 
 Chris' Section
 
+Foo
+Bar
 
-
-
-
-
-
-
-
+Hello
+This is Chris' writing
+1
+2
+3
 END OF DOCUMENT
